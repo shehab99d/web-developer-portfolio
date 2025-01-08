@@ -1,0 +1,1 @@
+import{t as r}from"./events.DRzJO38d.js";const c=document.querySelectorAll("[data-fiverr-button]");c.forEach(t=>{t.addEventListener("click",()=>{r("click_fiverr")})});
